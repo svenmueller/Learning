@@ -10,7 +10,7 @@ Watch Videos
 
 Try it!
 -------
-* Take the [Try Git](http://try.github.com/levels/1/challenges/1) code school
+* Take the [Try Git](http://try.github.com/levels/1/challenges/1) code school (~20 min)
 
 Read
 ---------
